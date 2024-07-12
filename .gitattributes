@@ -1,0 +1,3 @@
+ham/* linguist-vendored
+spam/* linguist-vendored
+*.py linguist-language=Python
