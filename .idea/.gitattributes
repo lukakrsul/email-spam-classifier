@@ -1,0 +1,3 @@
+# Ignore specific folders
+folder_to_ignore/* ham
+folder_to_ignore/* spam
