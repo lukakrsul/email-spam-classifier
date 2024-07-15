@@ -20,4 +20,5 @@ Follow these steps to set up and run the Email Classifier on your local machine:
 1. Clone the repository
 2. Install the required libraries:
    - `pip install -r requirements.txt`
-3.Run python main.py
+3. Run `python main.py`
+
